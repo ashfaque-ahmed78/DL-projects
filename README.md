@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Muhammad Farhan** — an aspiring **AI/ML Engineer** passionate about building real-world solutions using Deep Learning.
+Hi, I'm **Ashfaque Ahmed** — an aspiring **AI/ML Engineer** passionate about building real-world solutions using Deep Learning.
 
 - 🔗 GitHub: (https://github.com/ashfaque-ahmed78)  
 - 🔗 LinkedIn: (Add your LinkedIn)  
