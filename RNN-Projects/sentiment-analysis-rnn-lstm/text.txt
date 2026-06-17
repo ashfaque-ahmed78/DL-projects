@@ -1,0 +1,26 @@
+😊 POSITIVE REVIEWS (Expected: Positive)
+
+This movie was absolutely amazing, I loved every moment of it.
+The acting was fantastic and the story was very emotional.
+One of the best films I have ever watched in my life.
+Really great experience, I would highly recommend it to everyone.
+The direction and music were outstanding, perfect movie!
+
+😡 NEGATIVE REVIEWS (Expected: Negative)
+
+This movie was very boring and waste of time.
+The story made no sense and acting was terrible.
+I did not enjoy it at all, it was disappointing.
+Worst movie I have ever seen, very bad experience.
+Too long and completely unnecessary scenes.
+
+
+⚠️ TRICKY / HARD CASES (VERY IMPORTANT 🔥)
+
+These check your model quality:
+
+The movie started well but ended badly.
+Not bad, but also not great.
+I expected more from this film.
+It was okay, nothing special.
+Some parts were good but overall disappointing.
